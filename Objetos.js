@@ -2,9 +2,9 @@
 utilizar comillas, y concluye porque si fue posible o no acceder a ellas.*/
 
 const objeto = {
-  propiedad1: "Hello Buffalo",
-  propiedad2: "Monster",
-  propiedad3: "La Sierra",
+  propiedad1: "Hello meet",
+  propiedad2: "Hello google",
+  propiedad3: "Bye",
 };
 
 const propiedad = "propiedad3"; /*tenemos tres propiedades las cuales poseen una notacion las cuales podemos cambiar
